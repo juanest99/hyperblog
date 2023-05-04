@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloock&family=Nabla&family=Press+Start+2P&family=Righteous&display=swap');
+body{
+    background-color:whitesmoke;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    color: cornflowerblue;
+    font-family: 'Gloock', serif;
+    font-family: 'Nabla', cursive;
+    font-family: 'Press Start 2P', cursive;
+    font-family: 'Righteous', cursive;
+ }
