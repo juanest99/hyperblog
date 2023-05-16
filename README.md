@@ -14,6 +14,7 @@ En este curso vemos de todo:
 -esquizofrenia del Freddy Vega 
 -Creado por platzi team 
 -Incluye ejemplo en Windows, Linux y Mac 
+-Disponible para todas las edades
 
 RECORDATORIO: **Este readme no es enserio si alguien lee esto antes de que se ponga en privado.... hola** .
 Gracias.
