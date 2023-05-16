@@ -12,6 +12,7 @@ En este curso vemos de todo:
 -  Servidor con apache 
 - Flujo de trabajo en Github
 -esquizofrenia del Freddy Vega 
+-Creado por platzi team 
 
 
 RECORDATORIO: **Este readme no es enserio si alguien lee esto antes de que se ponga en privado.... hola** .
