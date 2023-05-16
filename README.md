@@ -1,4 +1,4 @@
-# Hyperblog 
+# Hyperblog 💚
 
 Un blog de dudosa procedencia para el[ curso de Git y Github](https://platzi.com/cursos/git-github/ " curso de Git y Github") de [Platzi](https://platzi.com/ "Platzi")
 
@@ -13,11 +13,8 @@ En este curso vemos de todo:
 - Flujo de trabajo en Github
 - esquizofrenia del Freddy Vega 
 - Creado por platzi team 
-
--esquizofrenia del Freddy Vega 
--Creado por platzi team 
--Incluye ejemplo en Windows, Linux y Mac 
--Disponible para todas las edades
+- Incluye ejemplo en Windows, Linux y Mac 
+- Disponible para todas las edades
 
 RECORDATORIO: **Este readme no es enserio si alguien lee esto antes de que se ponga en privado.... hola** .
 Gracias.
